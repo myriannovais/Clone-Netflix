@@ -1,0 +1,17 @@
+.logo {
+  max-width: 120px;
+}
+
+body {
+  background-color: #24252c;
+  color: rgba(255, 255, 255, 0.774);
+}
+
+#perfil, #infantil {
+  max-width: 30px;
+}
+
+#lupa {
+  max-width:  20px;
+}
+
